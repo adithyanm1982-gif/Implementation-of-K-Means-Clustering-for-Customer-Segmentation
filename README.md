@@ -70,7 +70,7 @@ plt.show()
 
 <img width="692" height="139" alt="ML-EX-10-A" src="https://github.com/user-attachments/assets/1d82e517-82ce-4b4c-909a-556c13b8173b" />
 
-## Clustered Data:
+## Clustered Data
 <img width="765" height="346" alt="ML-EX-10-B" src="https://github.com/user-attachments/assets/6d674707-e05f-42c4-ab8a-f64bc4781522" />
 
 ## Customer Segmentation using K-Means
